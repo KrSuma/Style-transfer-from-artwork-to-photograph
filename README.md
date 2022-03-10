@@ -8,6 +8,9 @@ Usage:
 Before running the code, install CUDA on your device to reduce the amount of time style transfer takes. 
 Then install the correct version of PyTorch from the website.
 
+You must download the vgg19 model and install it in the model/vgg19 subdirectory here:
+https://bethgelab.org/media/uploads/pytorch_models/vgg_conv.pth
+
 also:
 (from conda interpreter. just doing 'conda install PIL' didnt work for me.)
 easy_install PIL
