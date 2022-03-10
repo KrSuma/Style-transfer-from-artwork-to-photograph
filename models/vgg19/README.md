@@ -1,0 +1,1 @@
+SOURCE: https://bethgelab.org/media/uploads/pytorch_models/vgg_conv.pth
