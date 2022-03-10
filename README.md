@@ -1,4 +1,4 @@
-Project for the Machine Learning Workkshop course.
+Project for the Machine Learning Workkshop course, Warsaw Univeristy of Techcnology. 
 
 Implements style transfer, based on the method proposed by Gatys et al. (https://arxiv.org/abs/1508.06576).
 Current implementation is largely based on the code provided by Gatys(https://github.com/leongatys/PytorchNeuralStyleTransfer/blob/master/NeuralStyleTransfer.ipynb).
